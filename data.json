@@ -4,10 +4,10 @@
     "name": "John Doe",
     "orders": [
       {
-        "orderId": "123",
-        "product": "Book",
+        "orderId": "125",
+        "product": "Leaflet",
         "quantity": 2,
-        "price": 15.99
+        "price": "13.99"
       },
       {
         "orderId": "124",
